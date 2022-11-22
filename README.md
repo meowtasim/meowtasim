@@ -1,4 +1,4 @@
-# Hello!, I am Mutasim👋
+# Hello! I am Mutasim👋
 - 👀 I’m interested in Technical Domains
 - 🌱 I’m currently learning Unity Game Engine
 - 💞️ I’m looking to collaborate on projects
