@@ -1,6 +1,6 @@
 # Hello! I am Mutasim👋
 - 👀 I’m interested in Technical Domains
-- 🌱 I’m currently learning Unity Game Engine
+- 🌱 I’m currently learning Computer Vision and Image Processing
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me -  meowtasim@gmail.com
 
