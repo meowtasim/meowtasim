@@ -1,6 +1,6 @@
 # Hello! I am Mutasim👋
 - 👀 I’m interested in Technical Domains
-- 🌱 I’m currently Machine Leaning
+- 🌱 I’m currently Machine Learning
 - Pursuing my B Tech in Computer Science in PES University Bangalore
 - 📫 How to reach me -  meowtasim@gmail.com
 
