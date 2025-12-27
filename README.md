@@ -1,7 +1,7 @@
 # Hello! I am Mutasim👋
-- 👀 I’m interested in Technical Domains
-- 🌱 I’m currently Machine Learning
-- Pursuing my B Tech in Computer Science in PES University Bangalore
+- 👀 Like engineering, figuring out solutions and implementing them.
+- 🌱 I am one with Nature
+- Working full-time at Arista Networks
 - 📫 How to reach me -  meowtasim@gmail.com
 
 
